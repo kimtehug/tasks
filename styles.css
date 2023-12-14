@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fbcece;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+section {
+    background-color: rgb(199, 234, 222);
+    padding: 50px 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+ background-color: rgb(214, 213, 171);
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #fbcece;
+    color: rgb(49, 59, 198);
+}
